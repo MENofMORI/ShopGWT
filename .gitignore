@@ -1,0 +1,5 @@
+gwt-unitCache/
+war/WEB-INF/classes/*/ *
+war/shop/
+war/WEB-INF/deploy/*/*
+/test-classes/
